@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Project7\Project7\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Project7\Project7\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project7\Project7\bin\Debug\Project7.dll.config
+C:\Users\Administrator\source\repos\Project7\Project7\bin\Debug\Project7.dll
+C:\Users\Administrator\source\repos\Project7\Project7\bin\Debug\Project7.pdb
+C:\Users\Administrator\source\repos\Project7\Project7\obj\Debug\Project7.dll
+C:\Users\Administrator\source\repos\Project7\Project7\obj\Debug\Project7.pdb

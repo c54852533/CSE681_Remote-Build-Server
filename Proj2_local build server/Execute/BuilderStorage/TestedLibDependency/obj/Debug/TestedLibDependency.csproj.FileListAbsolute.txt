@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\雪城课程\CSE681 Software Moduling and Analysis\proj2\DllLoaderDemo\TestedLibDependency\bin\Debug\TestedLibDependency.dll
+C:\Users\Administrator\Desktop\雪城课程\CSE681 Software Moduling and Analysis\proj2\DllLoaderDemo\TestedLibDependency\bin\Debug\TestedLibDependency.pdb
+C:\Users\Administrator\Desktop\雪城课程\CSE681 Software Moduling and Analysis\proj2\DllLoaderDemo\TestedLibDependency\obj\Debug\TestedLibDependency.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\雪城课程\CSE681 Software Moduling and Analysis\proj2\DllLoaderDemo\TestedLibDependency\obj\Debug\TestedLibDependency.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\雪城课程\CSE681 Software Moduling and Analysis\proj2\DllLoaderDemo\TestedLibDependency\obj\Debug\TestedLibDependency.dll
+C:\Users\Administrator\Desktop\雪城课程\CSE681 Software Moduling and Analysis\proj2\DllLoaderDemo\TestedLibDependency\obj\Debug\TestedLibDependency.pdb
+C:\Users\Administrator\source\repos\Project7\Execute\BuilderStorage\TestedLibDependency\bin\Debug\TestedLibDependency.dll
+C:\Users\Administrator\source\repos\Project7\Execute\BuilderStorage\TestedLibDependency\bin\Debug\TestedLibDependency.pdb
+C:\Users\Administrator\source\repos\Project7\Execute\BuilderStorage\TestedLibDependency\obj\Debug\TestedLibDependency.dll
+C:\Users\Administrator\source\repos\Project7\Execute\BuilderStorage\TestedLibDependency\obj\Debug\TestedLibDependency.pdb

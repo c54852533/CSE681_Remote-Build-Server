@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\obj\Debug\InterfacesLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\bin\Debug\InterfacesLib.dll.config
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\bin\Debug\InterfacesLib.dll
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\bin\Debug\InterfacesLib.pdb
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\obj\Debug\InterfacesLib.dll
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\obj\Debug\InterfacesLib.pdb
+C:\Users\Administrator\source\repos\Project7\InterfacesLib\obj\Debug\InterfacesLib.csprojResolveAssemblyReference.cache

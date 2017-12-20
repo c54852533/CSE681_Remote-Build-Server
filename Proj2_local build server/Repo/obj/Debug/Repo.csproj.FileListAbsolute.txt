@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Project7\Repo\bin\Debug\Repo.pdb
+C:\Users\Administrator\source\repos\Project7\Repo\obj\Debug\Repo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project7\Repo\obj\Debug\Repo.pdb
+C:\Users\Administrator\source\repos\Project7\Repo\bin\Debug\Repo.dll.config
+C:\Users\Administrator\source\repos\Project7\Repo\bin\Debug\Repo.dll
+C:\Users\Administrator\source\repos\Project7\Repo\obj\Debug\Repo.dll
+C:\Users\Administrator\source\repos\Project7\Repo\obj\Debug\Repo.csprojResolveAssemblyReference.cache

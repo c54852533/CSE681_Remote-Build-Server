@@ -1,0 +1,13 @@
+C:\Users\You Tian\Desktop\File Manager\File Manager\bin\Debug\File Manager.exe.config
+C:\Users\You Tian\Desktop\File Manager\File Manager\bin\Debug\File Manager.exe
+C:\Users\You Tian\Desktop\File Manager\File Manager\bin\Debug\File Manager.pdb
+C:\Users\You Tian\Desktop\File Manager\File Manager\obj\Debug\File Manager.csprojResolveAssemblyReference.cache
+C:\Users\You Tian\Desktop\File Manager\File Manager\obj\Debug\File Manager.exe
+C:\Users\You Tian\Desktop\File Manager\File Manager\obj\Debug\File Manager.pdb
+C:\Users\Administrator\Desktop\File Manager\File Manager\bin\Debug\File Manager.exe.config
+C:\Users\Administrator\Desktop\File Manager\File Manager\bin\Debug\File Manager.exe
+C:\Users\Administrator\Desktop\File Manager\File Manager\bin\Debug\File Manager.pdb
+C:\Users\Administrator\Desktop\File Manager\File Manager\obj\Debug\File Manager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\File Manager\File Manager\obj\Debug\File Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\File Manager\File Manager\obj\Debug\File Manager.exe
+C:\Users\Administrator\Desktop\File Manager\File Manager\obj\Debug\File Manager.pdb

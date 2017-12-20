@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6534ADF0-53C7-4F78-A009-C2939356CF94}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Execute</RootNamespace>
+    <AssemblyName>Execute</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Execute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DllLoaderDemo\DllLoaderDemo.csproj">
+      <Project>{7b8f0af2-67da-4eab-b243-b21eac0f819a}</Project>
+      <Name>DllLoaderDemo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterfacesLib\InterfacesLib.csproj">
+      <Project>{de4fe4da-baba-452f-a386-3eb813375fbf}</Project>
+      <Name>InterfacesLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project7\Builder.csproj">
+      <Project>{91774020-0bc2-479e-8681-c0407dd94853}</Project>
+      <Name>Builder</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repo\Repo.csproj">
+      <Project>{fb76d124-ff76-449d-a189-873c33e82067}</Project>
+      <Name>Repo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestedLibDependency\TestedLibDependency.csproj">
+      <Project>{6e3ea4e9-b944-4f8d-8d42-1f847058d40a}</Project>
+      <Name>TestedLibDependency</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TestedLib\TestedLib.csproj">
+      <Project>{c491f24c-60da-4a46-9685-140a181abc1d}</Project>
+      <Name>TestedLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TesterLib\TesterLib.csproj">
+      <Project>{abb6a459-3b87-4cdb-9783-3400fa0650d9}</Project>
+      <Name>TesterLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Build" />
+    <Reference Include="Microsoft.Build.Engine" />
+    <Reference Include="Microsoft.Build.Framework" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

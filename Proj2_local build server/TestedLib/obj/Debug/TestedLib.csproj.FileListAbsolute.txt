@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Project7\TestedLib\obj\Debug\TestedLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Project7\TestedLib\obj\Debug\TestedLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\TestedLib.dll.config
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\TestedLib.dll
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\TestedLib.pdb
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\InterfacesLib.dll
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\TestedLibDependency.dll
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\InterfacesLib.pdb
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\InterfacesLib.dll.config
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\TestedLibDependency.pdb
+C:\Users\Administrator\source\repos\Project7\TestedLib\bin\Debug\TestedLibDependency.dll.config
+C:\Users\Administrator\source\repos\Project7\TestedLib\obj\Debug\TestedLib.dll
+C:\Users\Administrator\source\repos\Project7\TestedLib\obj\Debug\TestedLib.pdb

@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Project7\TesterLib\obj\Debug\TesterLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Project7\TesterLib\obj\Debug\TesterLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TesterLib.dll.config
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TesterLib.dll
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TesterLib.pdb
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\InterfacesLib.dll
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TestedLib.dll
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TestedLibDependency.dll
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\InterfacesLib.pdb
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\InterfacesLib.dll.config
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TestedLib.pdb
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TestedLib.dll.config
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TestedLibDependency.pdb
+C:\Users\Administrator\source\repos\Project7\TesterLib\bin\Debug\TestedLibDependency.dll.config
+C:\Users\Administrator\source\repos\Project7\TesterLib\obj\Debug\TesterLib.dll
+C:\Users\Administrator\source\repos\Project7\TesterLib\obj\Debug\TesterLib.pdb
